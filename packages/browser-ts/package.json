@@ -1,6 +1,6 @@
 {
   "name": "@zcool/eslint-config-browser-ts",
-  "version": "0.0.1",
+  "version": "0.0.2-alpha.0",
   "description": "eslint config for browser-ts",
   "prettier": "@zcool/prettier-config",
   "main": "index.js",
@@ -21,8 +21,8 @@
   "devDependencies": {
     "@zcool/prettier-config": "^1.0.0-rc.2",
     "babel-eslint": "^10.1.0",
-    "prettier": "^2.0.5",
-    "eslint": "^7.6.0"
+    "eslint": "^7.6.0",
+    "prettier": "^2.0.5"
   },
   "peerDependencies": {
     "eslint": "^7.6.0"
