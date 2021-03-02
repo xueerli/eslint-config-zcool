@@ -8,8 +8,8 @@ module.exports = {
     'plugin:@typescript-eslint/recommended',
     'prettier/@typescript-eslint',
     'plugin:prettier/recommended',
-    './rules/ts',
-    './rules/base',
+    '../../rules/ts',
+    '../../rules/base',
   ],
   env: {
     node: true,
