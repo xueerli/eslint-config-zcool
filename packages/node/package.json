@@ -1,11 +1,14 @@
 {
   "name": "@zcool/eslint-config-node",
-  "version": "0.0.2-alpha.0",
+  "version": "1.0.0-alpha.0",
   "description": "eslint config for node",
   "prettier": "@zcool/prettier-config",
   "main": "index.js",
   "author": "lixue <lixxxue007@gmail.com>",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-standard": "^4.0.1"

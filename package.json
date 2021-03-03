@@ -4,7 +4,7 @@
   "workspaces": [
     "packages/*"
   ],
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "eslint config for zcool",
   "prettier": "@zcool/prettier-config",
   "repository": {

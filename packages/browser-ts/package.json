@@ -1,11 +1,14 @@
 {
   "name": "@zcool/eslint-config-browser-ts",
-  "version": "0.0.2-alpha.0",
+  "version": "1.0.0-alpha.0",
   "description": "eslint config for browser-ts",
   "prettier": "@zcool/prettier-config",
   "main": "index.js",
   "author": "lixue <lixxxue007@gmail.com>",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^3.8.0",
     "eslint-config-airbnb-base": "^14.2.0",

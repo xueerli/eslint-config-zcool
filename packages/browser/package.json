@@ -1,11 +1,14 @@
 {
   "name": "@zcool/eslint-config-browser",
-  "version": "0.0.2-alpha.0",
+  "version": "1.0.0-alpha.0",
   "description": "eslint config for browser",
   "prettier": "@zcool/prettier-config",
   "main": "index.js",
   "author": "lixue <lixxxue007@gmail.com>",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-es": "3.0.1",
