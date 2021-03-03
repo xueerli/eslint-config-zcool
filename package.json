@@ -22,6 +22,6 @@
   },
   "scripts": {
     "bootstrap": "lerna bootstrap --npm-client yarn --use-workspaces",
-    "release": "lerna publish"
+    "release": "lerna publish from-package"
   }
 }
